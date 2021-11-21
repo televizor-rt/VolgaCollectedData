@@ -1,0 +1,270 @@
+[
+  {
+    "arrival": "2021-11-22T07:43:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "036S_7_2",
+      "title": "Адлер — Санкт-Петербург",
+      "number": "036С",
+      "short_title": "Адлер — Санкт-Петербург",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-20&uid=036S_7_2",
+      "carrier": {
+        "code": 112,
+        "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+        "url": "http://www.rzd.ru/",
+        "logo_svg": null,
+        "title": "РЖД/ФПК",
+        "phone": "+7 (800) 775-00-00",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": "Москва, ул. Новая Басманная , д. 2",
+        "logo": "https://yastat.net/s3/rasp/media/data/company/logo/logo.gif",
+        "email": "info@rzd.ru"
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-21T00:03:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s9602494",
+      "title": "Санкт-Петербург (Московский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Московский вокзал",
+      "short_title": "СПб-Моск.",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 114000,
+    "arrival_terminal": null,
+    "start_date": "2021-11-20",
+    "arrival_platform": ""
+  },
+  {
+    "arrival": "2021-11-23T07:43:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "036S_7_2",
+      "title": "Адлер — Санкт-Петербург",
+      "number": "036С",
+      "short_title": "Адлер — Санкт-Петербург",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-21&uid=036S_7_2",
+      "carrier": {
+        "code": 112,
+        "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+        "url": "http://www.rzd.ru/",
+        "logo_svg": null,
+        "title": "РЖД/ФПК",
+        "phone": "+7 (800) 775-00-00",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": "Москва, ул. Новая Басманная , д. 2",
+        "logo": "https://yastat.net/s3/rasp/media/data/company/logo/logo.gif",
+        "email": "info@rzd.ru"
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-22T00:03:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s9602494",
+      "title": "Санкт-Петербург (Московский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Московский вокзал",
+      "short_title": "СПб-Моск.",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 114000,
+    "arrival_terminal": null,
+    "start_date": "2021-11-21",
+    "arrival_platform": ""
+  },
+  {
+    "arrival": "2021-11-22T07:43:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "036S_7_2",
+      "title": "Адлер — Санкт-Петербург",
+      "number": "036С",
+      "short_title": "Адлер — Санкт-Петербург",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-20&uid=036S_7_2",
+      "carrier": {
+        "code": 112,
+        "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+        "url": "http://www.rzd.ru/",
+        "logo_svg": null,
+        "title": "РЖД/ФПК",
+        "phone": "+7 (800) 775-00-00",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": "Москва, ул. Новая Басманная , д. 2",
+        "logo": "https://yastat.net/s3/rasp/media/data/company/logo/logo.gif",
+        "email": "info@rzd.ru"
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-21T00:03:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s9602494",
+      "title": "Санкт-Петербург (Московский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Московский вокзал",
+      "short_title": "СПб-Моск.",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 114000,
+    "arrival_terminal": null,
+    "start_date": "2021-11-20",
+    "arrival_platform": ""
+  },
+  {
+    "arrival": "2021-11-23T07:43:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "036S_7_2",
+      "title": "Адлер — Санкт-Петербург",
+      "number": "036С",
+      "short_title": "Адлер — Санкт-Петербург",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-21&uid=036S_7_2",
+      "carrier": {
+        "code": 112,
+        "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+        "url": "http://www.rzd.ru/",
+        "logo_svg": null,
+        "title": "РЖД/ФПК",
+        "phone": "+7 (800) 775-00-00",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": "Москва, ул. Новая Басманная , д. 2",
+        "logo": "https://yastat.net/s3/rasp/media/data/company/logo/logo.gif",
+        "email": "info@rzd.ru"
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-22T00:03:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s9602494",
+      "title": "Санкт-Петербург (Московский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Московский вокзал",
+      "short_title": "СПб-Моск.",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 114000,
+    "arrival_terminal": null,
+    "start_date": "2021-11-21",
+    "arrival_platform": ""
+  }
+]

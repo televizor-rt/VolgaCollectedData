@@ -1,0 +1,482 @@
+[
+  {
+    "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+    "trainRouteId": "035A_9_2",
+    "additionalData": {
+      "name": "Санкт-Петербург — Адлер",
+      "number": "035А"
+    },
+    "stops": [
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2004001",
+        "moscowArriveTime": null,
+        "moscowDepartureTime": "2021-11-21 20:16:00",
+        "stopTime": null,
+        "additionalData": {
+          "stationName": "Санкт-Петербург (Московский вокзал)"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2004592",
+        "moscowArriveTime": "2021-11-21 22:44:00",
+        "moscowDepartureTime": "2021-11-21 22:45:00",
+        "stopTime": 60,
+        "additionalData": {
+          "stationName": "Малая Вишера"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2004579",
+        "moscowArriveTime": "2021-11-21 23:36:00",
+        "moscowDepartureTime": "2021-11-21 23:37:00",
+        "stopTime": 60,
+        "additionalData": {
+          "stationName": "Окуловка"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2004660",
+        "moscowArriveTime": "2021-11-22 00:21:00",
+        "moscowDepartureTime": "2021-11-22 00:22:00",
+        "stopTime": 60,
+        "additionalData": {
+          "stationName": "Бологое"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2004600",
+        "moscowArriveTime": "2021-11-22 02:02:00",
+        "moscowDepartureTime": "2021-11-22 02:03:00",
+        "stopTime": 60,
+        "additionalData": {
+          "stationName": "Тверь"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2000080",
+        "moscowArriveTime": "2021-11-22 06:45:00",
+        "moscowDepartureTime": "2021-11-22 06:50:00",
+        "stopTime": 300,
+        "additionalData": {
+          "stationName": "Рязань-2"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2014414",
+        "moscowArriveTime": "2021-11-22 08:40:00",
+        "moscowDepartureTime": "2021-11-22 08:42:00",
+        "stopTime": 120,
+        "additionalData": {
+          "stationName": "Богоявленск"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2014418",
+        "moscowArriveTime": "2021-11-22 09:36:00",
+        "moscowDepartureTime": "2021-11-22 09:48:00",
+        "stopTime": 720,
+        "additionalData": {
+          "stationName": "Мичуринск-Воронежский"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2014390",
+        "moscowArriveTime": "2021-11-22 10:35:00",
+        "moscowDepartureTime": "2021-11-22 10:40:00",
+        "stopTime": 300,
+        "additionalData": {
+          "stationName": "Грязи-Воронежские"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2014001",
+        "moscowArriveTime": "2021-11-22 12:14:00",
+        "moscowDepartureTime": "2021-11-22 12:55:00",
+        "stopTime": 2460,
+        "additionalData": {
+          "stationName": "Воронеж-1"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2014120",
+        "moscowArriveTime": "2021-11-22 14:45:00",
+        "moscowDepartureTime": "2021-11-22 14:50:00",
+        "stopTime": 300,
+        "additionalData": {
+          "stationName": "Лиски"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2014540",
+        "moscowArriveTime": "2021-11-22 16:29:00",
+        "moscowDepartureTime": "2021-11-22 16:44:00",
+        "stopTime": 900,
+        "additionalData": {
+          "stationName": "Россошь"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064570",
+        "moscowArriveTime": "2021-11-22 20:05:00",
+        "moscowDepartureTime": "2021-11-22 20:07:00",
+        "stopTime": 120,
+        "additionalData": {
+          "stationName": "Каменская"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064605",
+        "moscowArriveTime": "2021-11-22 20:38:00",
+        "moscowDepartureTime": "2021-11-22 20:50:00",
+        "stopTime": 720,
+        "additionalData": {
+          "stationName": "Лихая"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064001",
+        "moscowArriveTime": "2021-11-22 23:26:00",
+        "moscowDepartureTime": "2021-11-22 23:42:00",
+        "stopTime": 960,
+        "additionalData": {
+          "stationName": "Ростов-Главный"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064800",
+        "moscowArriveTime": "2021-11-23 03:13:00",
+        "moscowDepartureTime": "2021-11-23 03:26:00",
+        "stopTime": 780,
+        "additionalData": {
+          "stationName": "Краснодар-1"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064057",
+        "moscowArriveTime": "2021-11-23 04:22:00",
+        "moscowDepartureTime": "2021-11-23 05:06:00",
+        "stopTime": 2640,
+        "additionalData": {
+          "stationName": "Горячий Ключ"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064140",
+        "moscowArriveTime": "2021-11-23 06:34:00",
+        "moscowDepartureTime": "2021-11-23 06:46:00",
+        "stopTime": 720,
+        "additionalData": {
+          "stationName": "Туапсе-Пасс."
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064030",
+        "moscowArriveTime": "2021-11-23 07:29:00",
+        "moscowDepartureTime": "2021-11-23 07:37:00",
+        "stopTime": 480,
+        "additionalData": {
+          "stationName": "Лазаревская"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064020",
+        "moscowArriveTime": "2021-11-23 08:35:00",
+        "moscowDepartureTime": "2021-11-23 08:37:00",
+        "stopTime": 120,
+        "additionalData": {
+          "stationName": "Лоо"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064130",
+        "moscowArriveTime": "2021-11-23 09:03:00",
+        "moscowDepartureTime": "2021-11-23 09:11:00",
+        "stopTime": 480,
+        "additionalData": {
+          "stationName": "Сочи"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064010",
+        "moscowArriveTime": "2021-11-23 09:30:00",
+        "moscowDepartureTime": "2021-11-23 09:32:00",
+        "stopTime": 120,
+        "additionalData": {
+          "stationName": "Хоста"
+        }
+      },
+      {
+        "id": "f79cfc46-dd5c-4007-89f5-7a37da7fb606",
+        "expressId": "2064150",
+        "moscowArriveTime": "2021-11-23 09:43:00",
+        "moscowDepartureTime": null,
+        "stopTime": null,
+        "additionalData": {
+          "stationName": "Адлер"
+        }
+      }
+    ]
+  },
+  {
+    "id": "90f3da20-91a4-4354-9376-eff119b60417",
+    "trainRouteId": "035A_9_2",
+    "additionalData": {
+      "name": "Санкт-Петербург — Адлер",
+      "number": "035А"
+    },
+    "stops": [
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2004001",
+        "moscowArriveTime": null,
+        "moscowDepartureTime": "2021-11-21 20:16:00",
+        "stopTime": null,
+        "additionalData": {
+          "stationName": "Санкт-Петербург (Московский вокзал)"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2004592",
+        "moscowArriveTime": "2021-11-21 22:44:00",
+        "moscowDepartureTime": "2021-11-21 22:45:00",
+        "stopTime": 60,
+        "additionalData": {
+          "stationName": "Малая Вишера"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2004579",
+        "moscowArriveTime": "2021-11-21 23:36:00",
+        "moscowDepartureTime": "2021-11-21 23:37:00",
+        "stopTime": 60,
+        "additionalData": {
+          "stationName": "Окуловка"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2004660",
+        "moscowArriveTime": "2021-11-22 00:21:00",
+        "moscowDepartureTime": "2021-11-22 00:22:00",
+        "stopTime": 60,
+        "additionalData": {
+          "stationName": "Бологое"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2004600",
+        "moscowArriveTime": "2021-11-22 02:02:00",
+        "moscowDepartureTime": "2021-11-22 02:03:00",
+        "stopTime": 60,
+        "additionalData": {
+          "stationName": "Тверь"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2000080",
+        "moscowArriveTime": "2021-11-22 06:45:00",
+        "moscowDepartureTime": "2021-11-22 06:50:00",
+        "stopTime": 300,
+        "additionalData": {
+          "stationName": "Рязань-2"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2014414",
+        "moscowArriveTime": "2021-11-22 08:40:00",
+        "moscowDepartureTime": "2021-11-22 08:42:00",
+        "stopTime": 120,
+        "additionalData": {
+          "stationName": "Богоявленск"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2014418",
+        "moscowArriveTime": "2021-11-22 09:36:00",
+        "moscowDepartureTime": "2021-11-22 09:48:00",
+        "stopTime": 720,
+        "additionalData": {
+          "stationName": "Мичуринск-Воронежский"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2014390",
+        "moscowArriveTime": "2021-11-22 10:35:00",
+        "moscowDepartureTime": "2021-11-22 10:40:00",
+        "stopTime": 300,
+        "additionalData": {
+          "stationName": "Грязи-Воронежские"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2014001",
+        "moscowArriveTime": "2021-11-22 12:14:00",
+        "moscowDepartureTime": "2021-11-22 12:55:00",
+        "stopTime": 2460,
+        "additionalData": {
+          "stationName": "Воронеж-1"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2014120",
+        "moscowArriveTime": "2021-11-22 14:45:00",
+        "moscowDepartureTime": "2021-11-22 14:50:00",
+        "stopTime": 300,
+        "additionalData": {
+          "stationName": "Лиски"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2014540",
+        "moscowArriveTime": "2021-11-22 16:29:00",
+        "moscowDepartureTime": "2021-11-22 16:44:00",
+        "stopTime": 900,
+        "additionalData": {
+          "stationName": "Россошь"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064570",
+        "moscowArriveTime": "2021-11-22 20:05:00",
+        "moscowDepartureTime": "2021-11-22 20:07:00",
+        "stopTime": 120,
+        "additionalData": {
+          "stationName": "Каменская"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064605",
+        "moscowArriveTime": "2021-11-22 20:38:00",
+        "moscowDepartureTime": "2021-11-22 20:50:00",
+        "stopTime": 720,
+        "additionalData": {
+          "stationName": "Лихая"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064001",
+        "moscowArriveTime": "2021-11-22 23:26:00",
+        "moscowDepartureTime": "2021-11-22 23:42:00",
+        "stopTime": 960,
+        "additionalData": {
+          "stationName": "Ростов-Главный"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064800",
+        "moscowArriveTime": "2021-11-23 03:13:00",
+        "moscowDepartureTime": "2021-11-23 03:26:00",
+        "stopTime": 780,
+        "additionalData": {
+          "stationName": "Краснодар-1"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064057",
+        "moscowArriveTime": "2021-11-23 04:22:00",
+        "moscowDepartureTime": "2021-11-23 05:06:00",
+        "stopTime": 2640,
+        "additionalData": {
+          "stationName": "Горячий Ключ"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064140",
+        "moscowArriveTime": "2021-11-23 06:34:00",
+        "moscowDepartureTime": "2021-11-23 06:46:00",
+        "stopTime": 720,
+        "additionalData": {
+          "stationName": "Туапсе-Пасс."
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064030",
+        "moscowArriveTime": "2021-11-23 07:29:00",
+        "moscowDepartureTime": "2021-11-23 07:37:00",
+        "stopTime": 480,
+        "additionalData": {
+          "stationName": "Лазаревская"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064020",
+        "moscowArriveTime": "2021-11-23 08:35:00",
+        "moscowDepartureTime": "2021-11-23 08:37:00",
+        "stopTime": 120,
+        "additionalData": {
+          "stationName": "Лоо"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064130",
+        "moscowArriveTime": "2021-11-23 09:03:00",
+        "moscowDepartureTime": "2021-11-23 09:11:00",
+        "stopTime": 480,
+        "additionalData": {
+          "stationName": "Сочи"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064010",
+        "moscowArriveTime": "2021-11-23 09:30:00",
+        "moscowDepartureTime": "2021-11-23 09:32:00",
+        "stopTime": 120,
+        "additionalData": {
+          "stationName": "Хоста"
+        }
+      },
+      {
+        "id": "90f3da20-91a4-4354-9376-eff119b60417",
+        "expressId": "2064150",
+        "moscowArriveTime": "2021-11-23 09:43:00",
+        "moscowDepartureTime": null,
+        "stopTime": null,
+        "additionalData": {
+          "stationName": "Адлер"
+        }
+      }
+    ]
+  }
+]

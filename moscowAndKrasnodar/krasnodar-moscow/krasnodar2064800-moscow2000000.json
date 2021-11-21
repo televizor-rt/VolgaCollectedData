@@ -1,0 +1,404 @@
+[
+  {
+    "arrival": "2021-11-22T08:23:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "092S_1_2",
+      "title": "Севастополь — Москва",
+      "number": "092С",
+      "short_title": "Севастополь — Москва",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-20&uid=092S_1_2",
+      "carrier": {
+        "code": 63438,
+        "contacts": "",
+        "url": "http://grandtrain.ru",
+        "logo_svg": null,
+        "title": "Гранд Сервис Экспресс (Таврия)",
+        "phone": "",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": null,
+        "logo": null,
+        "email": null
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-21T10:34:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s2000003",
+      "title": "Москва (Казанский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Казанский вокзал",
+      "short_title": "М-Казанская",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 78540,
+    "arrival_terminal": null,
+    "start_date": "2021-11-20",
+    "arrival_platform": ""
+  },
+  {
+    "arrival": "2021-11-22T18:53:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "104ZH_2_2",
+      "title": "Адлер — Москва",
+      "number": "104Ж",
+      "short_title": "Адлер — Москва",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-21&uid=104ZH_2_2",
+      "carrier": {
+        "code": 112,
+        "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+        "url": "http://www.rzd.ru/",
+        "logo_svg": null,
+        "title": "РЖД/ФПК",
+        "phone": "+7 (800) 775-00-00",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": "Москва, ул. Новая Басманная , д. 2",
+        "logo": "https://yastat.net/s3/rasp/media/data/company/logo/logo.gif",
+        "email": "info@rzd.ru"
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-21T23:43:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s2000003",
+      "title": "Москва (Казанский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Казанский вокзал",
+      "short_title": "М-Казанская",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 69000,
+    "arrival_terminal": null,
+    "start_date": "2021-11-21",
+    "arrival_platform": ""
+  },
+  {
+    "arrival": "2021-11-22T18:45:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "030J_2_2",
+      "title": "Новороссийск — Москва",
+      "number": "030Й",
+      "short_title": "Новороссийск — Москва",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-21&uid=030J_2_2",
+      "carrier": {
+        "code": 59609,
+        "contacts": "В поезде курсируют вагоны двух перевозчиков - Федеральной пассажирской компании и ЗАО «ТрансКлассСервис».",
+        "url": "",
+        "logo_svg": null,
+        "title": "РЖД/ФПК + ТКС",
+        "phone": "",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": "",
+        "logo": null,
+        "email": ""
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-21T23:53:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s2000003",
+      "title": "Москва (Казанский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Казанский вокзал",
+      "short_title": "М-Казанская",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 67920,
+    "arrival_terminal": null,
+    "start_date": "2021-11-21",
+    "arrival_platform": ""
+  },
+  {
+    "arrival": "2021-11-22T08:23:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "092S_1_2",
+      "title": "Севастополь — Москва",
+      "number": "092С",
+      "short_title": "Севастополь — Москва",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-20&uid=092S_1_2",
+      "carrier": {
+        "code": 63438,
+        "contacts": "",
+        "url": "http://grandtrain.ru",
+        "logo_svg": null,
+        "title": "Гранд Сервис Экспресс (Таврия)",
+        "phone": "",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": null,
+        "logo": null,
+        "email": null
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-21T10:34:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s2000003",
+      "title": "Москва (Казанский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Казанский вокзал",
+      "short_title": "М-Казанская",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 78540,
+    "arrival_terminal": null,
+    "start_date": "2021-11-20",
+    "arrival_platform": ""
+  },
+  {
+    "arrival": "2021-11-22T18:53:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "104ZH_2_2",
+      "title": "Адлер — Москва",
+      "number": "104Ж",
+      "short_title": "Адлер — Москва",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-21&uid=104ZH_2_2",
+      "carrier": {
+        "code": 112,
+        "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+        "url": "http://www.rzd.ru/",
+        "logo_svg": null,
+        "title": "РЖД/ФПК",
+        "phone": "+7 (800) 775-00-00",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": "Москва, ул. Новая Басманная , д. 2",
+        "logo": "https://yastat.net/s3/rasp/media/data/company/logo/logo.gif",
+        "email": "info@rzd.ru"
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-21T23:43:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s2000003",
+      "title": "Москва (Казанский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Казанский вокзал",
+      "short_title": "М-Казанская",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 69000,
+    "arrival_terminal": null,
+    "start_date": "2021-11-21",
+    "arrival_platform": ""
+  },
+  {
+    "arrival": "2021-11-22T18:45:00+03:00",
+    "from": {
+      "code": "s9613602",
+      "title": "Краснодар-1",
+      "station_type": "station",
+      "popular_title": "",
+      "short_title": "",
+      "transport_type": "train",
+      "station_type_name": "станция",
+      "type": "station"
+    },
+    "thread": {
+      "uid": "030J_2_2",
+      "title": "Новороссийск — Москва",
+      "number": "030Й",
+      "short_title": "Новороссийск — Москва",
+      "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2021-11-21&uid=030J_2_2",
+      "carrier": {
+        "code": 59609,
+        "contacts": "В поезде курсируют вагоны двух перевозчиков - Федеральной пассажирской компании и ЗАО «ТрансКлассСервис».",
+        "url": "",
+        "logo_svg": null,
+        "title": "РЖД/ФПК + ТКС",
+        "phone": "",
+        "codes": {
+          "icao": null,
+          "sirena": null,
+          "iata": null
+        },
+        "address": "",
+        "logo": null,
+        "email": ""
+      },
+      "transport_type": "train",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": null,
+        "code": null,
+        "title": null
+      },
+      "express_type": null
+    },
+    "departure_platform": "",
+    "departure": "2021-11-21T23:53:00+03:00",
+    "stops": "",
+    "departure_terminal": null,
+    "to": {
+      "code": "s2000003",
+      "title": "Москва (Казанский вокзал)",
+      "station_type": "train_station",
+      "popular_title": "Казанский вокзал",
+      "short_title": "М-Казанская",
+      "transport_type": "train",
+      "station_type_name": "вокзал",
+      "type": "station"
+    },
+    "has_transfers": false,
+    "tickets_info": {
+      "et_marker": false,
+      "places": []
+    },
+    "duration": 67920,
+    "arrival_terminal": null,
+    "start_date": "2021-11-21",
+    "arrival_platform": ""
+  }
+]
